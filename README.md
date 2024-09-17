@@ -34,7 +34,7 @@ To get started with the repository:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/your-username/react-learning-repo.git](https://github.com/chuadharysagar/Learning-react/tree/main)
+    git clone https://github.com/chuadharysagar/Learning-react.git
     ```
 2. Navigate to the project folder where you'd like to start:
     ```bash
