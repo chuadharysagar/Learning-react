@@ -1,0 +1,8 @@
+
+.continer{
+   display: flex; 
+   align-items: center;
+   justify-content: center;
+   margin-top: 20%;
+   font-size: 30px;
+}

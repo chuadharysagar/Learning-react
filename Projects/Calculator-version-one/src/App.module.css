@@ -1,0 +1,8 @@
+/* outter boundary of the calculator  */
+.calculator{
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+

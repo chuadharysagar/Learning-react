@@ -1,0 +1,12 @@
+/* button where  all button are  */
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
+ 
+ .button{
+     height: 45px;
+     width: 45px;
+     margin: 3px;
+ }

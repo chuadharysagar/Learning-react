@@ -1,0 +1,12 @@
+
+.button{
+    height: 40px;
+    width: 70px;
+    background-color:lightblue;
+    border-radius: 5px;
+    margin-left:10px;
+}
+
+.activeList{
+    background-color:rgb(122, 212, 107);
+}

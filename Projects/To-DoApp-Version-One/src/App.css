@@ -1,0 +1,20 @@
+h1{
+    font-weight: 750;
+    margin: 10px 10px 35px 10px;
+}
+
+input{
+    width: 100%;
+}
+
+.container{
+    text-align:left;
+}
+
+.my-row{
+    margin: 10px 5px;
+}
+
+.my-btn{
+    min-width: 80px;
+}
